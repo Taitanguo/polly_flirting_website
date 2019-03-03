@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="47bd923f-b91a-4b6f-bfae-c2d5b74ebb22" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/aws/lambda_function/PollyNotes-CreateUpdateFunction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aws/lambda_function/PollyNotes-DeleteFunction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aws/lambda_function/PollyNotes-DictateFunction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aws/lambda_function/PollyNotes-ListFunction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aws/lambda_function/PollyNotes-SearchFunction.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API-Gateway-for-students-swagger.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/API-Gateway-for-students-swagger.yaml" afterDir="false" />
-    </list>
+    <list default="true" id="47bd923f-b91a-4b6f-bfae-c2d5b74ebb22" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,7 +111,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
@@ -145,12 +138,6 @@
             <path>
               <item name="polly_flirting" type="b2602c69:ProjectViewProjectNode" />
               <item name="polly_flirting" type="462c0819:PsiDirectoryNode" />
-              <item name="aws" type="462c0819:PsiDirectoryNode" />
-              <item name="lambda_function" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="polly_flirting" type="b2602c69:ProjectViewProjectNode" />
-              <item name="polly_flirting" type="462c0819:PsiDirectoryNode" />
               <item name="config" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -162,6 +149,11 @@
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\polly_flirting\config" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
